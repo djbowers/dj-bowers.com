@@ -3,7 +3,7 @@
   "private": true,
   "description": "Personal blog by DJ Bowers, powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "DJ Bowers <dj@dj-bowers.com>",
+  "author": "DJ Bowers <daniel_bowers@icloud.com>",
   "dependencies": {
     "gatsby": "^2.21.0",
     "gatsby-image": "^2.4.0",
